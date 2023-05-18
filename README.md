@@ -18,8 +18,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Onbooarding screen
-<img src="https://user-images.githubusercontent.com/130862856/236631271-e0809d5a-8f13-4142-a3ad-182f0b89a566.jpg" style=" style="width:300px; height:200px;">
-<!-- ![Screenshot_20230506-151747]() -->
+![Screenshot_20230506-151747](https://user-images.githubusercontent.com/130862856/236631271-e0809d5a-8f13-4142-a3ad-182f0b89a566.jpg)
 ![Screenshot_20230506-154107](https://user-images.githubusercontent.com/130862856/236631277-9975c013-5b8d-4bea-93bf-9d0174c1cea4.jpg)
 ![Screenshot_20230506-151757](https://user-images.githubusercontent.com/130862856/236631281-55929d55-c075-4464-a4ab-5e3678ae198e.jpg)
 ![Screenshot_20230506-151753](https://user-images.githubusercontent.com/130862856/236631283-b1a5ce18-6664-4a66-bc50-9d41a76c32ee.jpg)
